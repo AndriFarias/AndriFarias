@@ -3,7 +3,6 @@
 📚 Eu estou cursando Sistemas de Informação e sempre procuro aprender mais para melhorar minhas habilidades.
 
 ### 🤝 Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/andrielly_farias21)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/andrifarias/)
 
 
