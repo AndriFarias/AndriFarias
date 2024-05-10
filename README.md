@@ -1,6 +1,8 @@
 
-# 👋 Olá!, Sou Andrielly Farias
-📚 Eu estou cursando Sistemas de Informação e sempre procuro aprender mais para melhorar minhas habilidades.
+## 👋 Olá, meu nome é Andrielly e atualmente estou cursando Sistemas de Informação.
+### 👩‍💻Tenho uma paixão profunda por tecnologia e estou sempre buscando aprender mais para aprimorar minhas habilidades.
+### 🚀Acredito firmemente que o aprendizado é um processo contínuo e que devemos sempre estar abertos a novas ideias e conceitos.
+### 🎯Meu objetivo é aplicar os conhecimentos adquiridos em meus estudos para resolver problemas reais e fazer a diferença no mundo da tecnologia.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/andrifarias/)
 
