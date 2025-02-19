@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Andrielly!
 
-Atualmente estou cursando **Sistemas de Informação** e gosto muito de tecnologia. Sempre busco aprender mais para aprimorar minhas habilidades. Meu objetivo é aplicar os conhecimentos adquiridos para resolver problemas reais e fazer a diferença no mundo da tecnologia.
+Atualmente estou formada **Sistemas de Informação** e gosto muito de tecnologia. Sempre busco aprender mais para aprimorar minhas habilidades. Meu objetivo é aplicar os conhecimentos adquiridos para resolver problemas reais e fazer a diferença no mundo da tecnologia.
 
 ---
 
