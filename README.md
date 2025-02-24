@@ -1,25 +1,89 @@
-# 👋 Olá, eu sou a Andrielly!
+<div align="center">
 
-Atualmente estou formada em **Sistemas de Informação** e gosto muito de tecnologia. Sempre busco aprender mais para aprimorar minhas habilidades. Meu objetivo é aplicar os conhecimentos adquiridos para resolver problemas reais e fazer a diferença no mundo da tecnologia.
+  <!-- Seção de boas-vindas personalizada -->
+  <h1 align="center"> 
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40px">
+    Olá, eu sou a Andrielly Farias Rocha!
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="40px">
+  </h1>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6A00B4&center=true&vCenter=true&width=600&lines=Desenvolvedora+Full+Stack+%7C+Tecnologia+é+Arte;Formada+em+Sistemas+de+Informação;Transformando+código+em+soluções+criativas!" alt="Typing Animation" />
+  </p>
 
----
+  <!-- Badges interativas -->
+  [![LinkedIn](https://img.shields.io/badge/-CONECTE--SE-6A00B4?style=for-the-badge)](https://www.linkedin.com/in/andrifarias/)
+  [![GitHub Profile](https://img.shields.io/badge/-PORTFÓLIO-6A00B4?style=for-the-badge)](https://github.com/AndriFarias?tab=repositories)
+  
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 🌐 Conecte-se Comigo
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrifarias/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndriFarias)
+## 🌟 Sobre Meu Aprendizado
 
----
+🎓 **Formação**  
+Bacharela em Sistemas de Informação pela UNINASSAU  
+Projetos acadêmicos com foco em desenvolvimento web moderno
 
-## 🧠 Habilidades
+💡 **Foco Técnico Atual**  
+Dominando fundamentos de:  
+→ Arquitetura RESTful com Node.js  
+→ Tipagem avançada em TypeScript  
+→ Design de interfaces responsivas  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+🔧 **Experiência Prática**  
+Construindo através de:  
+✔️ Projetos pessoais completos (front-end + back-end)  
+✔️ Desafios de código em plataformas educacionais   
 
----
+🚀 **Minha Abordagem**  
+Desenvolvimento como processo criativo:  
+✨ Priorizo código limpo e documentação clara  
+✨ Aprendo através de prototipagem prática  
+✨ Busco feedback constante para evolução técnica
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndriFarias&theme=transparent&bg_color=0D1117&border_color=6a00b0&show_icons=true&icon_color=6a00b0&title_color=6a00b0&text_color=C9D1D9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriFarias&layout=compact&theme=transparent&bg_color=0D1117&border_color=6a00b0&title_color=6a00b0&text_color=C9D1D9)
+🧠 **Filosofia de Carreira**  
+A jornada na programação é contínua, cada novo projeto é uma oportunidade para:  
+✅ Aplicar conhecimentos teóricos  
+✅ Explorar novas tecnologias  
+✅ Refinar boas práticas de desenvolvimento
 
+
+## 🛠️ Tech Stack
+
+### **Front-end**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+
+### **Back-end**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+
+### **Ferramentas & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndriFarias&show_icons=true&theme=radical&title_color=6A00B4&text_color=ffffff&icon_color=6A00B4&bg_color=0D1117&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriFarias&layout=compact&theme=radical&title_color=6A00B4&text_color=ffffff&bg_color=0D1117&hide_border=true"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndriFarias&theme=radical&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=6A00B4&ring=6A00B4&fire=6A00B4&currStreakLabel=6A00B4" alt="Contributions Streak"/>
+
+</div>
+
+<div align="center">
+  
+ ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6a00b4&height=120&section=footer)
+  
+  <p>✨ "Transformando linhas de código em experiências de aprendizado contínuo" ✨</p>
+</div>
